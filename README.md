@@ -35,7 +35,7 @@ Please note that these python files depend on the python package "healpy". There
 [3] Finally, run the "ACDplt.py" python file to obtain the AC discrepancy map for Planck SMICA 2015.
 
 
-References:
+### References:
 
 [1] Hamann, J., Gia, Q. T. L., Sloan, I. H., Wang, Y. G., & Womersley, R. S. (2021).
      A new probe of Gaussianity and isotropywith application to cosmic microwave background maps.
