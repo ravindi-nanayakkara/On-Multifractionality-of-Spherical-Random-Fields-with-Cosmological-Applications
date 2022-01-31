@@ -1,6 +1,6 @@
 # On Multifractionality of Spherical Random Fields with Cosmological Applications
 
-#This repository includes the Python codes and R codes which were implemented to obtain the results of the research paper titled, "On Multifractionality of Spherical Random Fields with Cosmological Applications", see https://arxiv.org/abs/2104.13945.
+This repository includes the Python codes and R codes which were implemented to obtain the results of the research paper titled, "On Multifractionality of Spherical Random Fields with Cosmological Applications", see https://arxiv.org/abs/2104.13945.
 
 ## Abstract
 This paper studies random fields on the unit sphere. Traditionally, isotropic Gaussian random fields are considered as the underlying statistical model of the cosmic microwave background (CMB) data. This paper discusses the generalized multifractional Brownian motion and its pointwise Hölder exponent on the sphere. The multifractional approach is used to investigate the CMB data from the Planck mission. These data consist of CMB radiation measurements at narrow angles of the sky sphere. The obtained results suggest that
@@ -21,7 +21,7 @@ If you use our code, please make sure to cite our paper:
 ## Instructions on how to run the python files:
 The python files were taken from Wang(2021) which were used in the paper by Hamann, et al(2021) and they were modified to obtain the AC discrepancy values for Planck SMICA 2015 map.
 
-# Instructions:
+### Instructions:
 
 We strongly recommend running these files on a supercomputer as these files need high memory and computational power.
 
