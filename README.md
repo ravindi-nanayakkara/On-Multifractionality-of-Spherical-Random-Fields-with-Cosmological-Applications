@@ -21,7 +21,7 @@ If you use our code, please make sure to cite our paper:
 ## Instructions on how to run the python files:
 The python files were taken from Wang(2021) which were used in the paper by Hamann, et al(2021) and they were modified to obtain the AC discrepancy values for Planck SMICA 2015 map.
 
-#Instructions:
+# Instructions:
 
 We strongly recommend running these files on a supercomputer as these files need high memory and computational power.
 
